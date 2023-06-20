@@ -16,7 +16,7 @@ per modern/ standard/ algebraic notation in a gamified way.
 ### Tutorial
 
 Required:
-- You need to have Python and pip installed.
+You need to have Python and pip installed.
 Steps before you can use the app:
 1. Load this repository into your coding environment.
 2. Use pip to install pygame.
