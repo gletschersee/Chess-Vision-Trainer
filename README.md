@@ -3,7 +3,7 @@
 ♟️👁️🎯♟️👁️🎯♟️👁️🎯♟️👁️🎯♟️👁️🎯♟️👁️🎯
 v.1.0 - *Gletschersee*
 
-[cvt_classical.png](graphics/additional_ressources/)
+[cvt_classical.png](graphics/additional ressources)
 
 
 ## Video Demo
