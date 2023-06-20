@@ -128,7 +128,7 @@ This project is not to be commercialized.
 
 | Version               | Changes                                                       |
 |:---------------------:|---------------------------------------------------------------|
-| **v.1.0 **            | The original version of the Chess Vision Trainer.             |
+| **v.1.0**            | The original version of the Chess Vision Trainer.             |
 | *No further versions* | *None*                                                        |
 
 Past versions are not highlighted.
@@ -146,12 +146,19 @@ All the code is written by me, Gletschersee.
 
 The graphics used are partly based on/ inspired by images that are not from me.
 All of them have licenses that allow me to use them in the way I used them.
+
 [Classical logo](https://pixabay.com/de/vectors/ritter-pferd-schach-spiel-bewegung-33015/)
+
 [Classical frame](https://blog.starsunflowerstudio.com/free-laurel-frames-arrows-clip-art/)
+
 [Heart logo](https://commons.wikimedia.org/wiki/File:Heart_font_awesome.svg)
+
 [Hearts frame](https://thenounproject.com/icon/row-of-hearts-1773997/)
+
 [Bolt logo](https://commons.wikimedia.org/wiki/File:Bolt_font_awesome.svg)
+
 [Bolt frame](https://svgsilh.com/de/image/2031288.html)
+
 
 
 ## Contact Information
