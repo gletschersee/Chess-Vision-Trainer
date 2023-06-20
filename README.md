@@ -1,9 +1,8 @@
 
 # **Chess Vision Trainer**
-♟️👁️🎯♟️👁️🎯♟️👁️🎯♟️👁️🎯♟️👁️🎯♟️👁️🎯
 v.1.0 - *Gletschersee*
 
-[Chess Vision Trainer Logo](https://raw.githubusercontent.com/gletschersee/Chess-Vision-Trainer/main/graphics/cvt_classical70x70.png)
+![Chess Vision Trainer Logo](https://raw.githubusercontent.com/gletschersee/Chess-Vision-Trainer/main/graphics/cvt_classical70x70.png)
 
 
 ## Video Demo
