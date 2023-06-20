@@ -3,7 +3,7 @@
 ♟️👁️🎯♟️👁️🎯♟️👁️🎯♟️👁️🎯♟️👁️🎯♟️👁️🎯
 v.1.0 - *Gletschersee*
 
-[Chess Vision Trainer Logo](graphics/additional ressources](https://raw.githubusercontent.com/gletschersee/Chess-Vision-Trainer/main/graphics/additional%20ressources/cvt_classical.png)
+[Chess Vision Trainer Logo](https://raw.githubusercontent.com/gletschersee/Chess-Vision-Trainer/main/graphics/cvt_classical70x70.png)
 
 
 ## Video Demo
