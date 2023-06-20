@@ -4,11 +4,8 @@ v.1.0 - *Gletschersee*
 
 ![Chess Vision Trainer Logo](https://raw.githubusercontent.com/gletschersee/Chess-Vision-Trainer/main/graphics/cvt_classical70x70.png)
 
-
-## Video Demo
-
 ![Static Badge](https://img.shields.io/badge/Video%20Demo%20-%20Chess%20Vision%20Trainer%20-%20black?logo=youtube&labelColor=red&link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDl-ekLb4quE)
-https://www.youtube.com/watch?v=a2HBwKvbtOo
+![Watch on Youtube](https://www.youtube.com/watch?v=a2HBwKvbtOo)
 
 
 ## Description
