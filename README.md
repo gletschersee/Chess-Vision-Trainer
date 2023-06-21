@@ -125,6 +125,17 @@ Gletschersee
 
 I did not start chess when I was 4. I started when I was an adult and am still bad at chess.
 
+## File descriptions
+
+- `README.md`
+- project.py
+- record_logbook.csv
+- requirements.txt
+- test_project.py
+- graphics/...
+    - additional ressources/...
+
+`project.py`
 
 
 ## Licensing
