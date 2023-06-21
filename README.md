@@ -127,15 +127,14 @@ I did not start chess when I was 4. I started when I was an adult and am still b
 
 ## File descriptions
 
-- `README.md`
-- project.py
-- record_logbook.csv
-- requirements.txt
-- test_project.py
-- graphics/...
-    - additional ressources/...
+- `README.md` This file. It contains the documentation for and other information on the project.
+- `project.py` The main file. It runs the entire app.
+- `record_logbook.csv` Records file. All the game statistics from logged-in users are saved here. 
+- `requirements.txt` Requirements file. This file contains all the tools I have worked with. Normally, it should be enough to pip install pygame.
+- `test_project.py` The testing file. This file can be run with pytest to ensure project.py is working as intended. It does **NOT** catch everything.
+- `graphics/...` The folder for all the graphics used for this project.
+    - `additional ressources/...` The subfolder for higher-resolution images, that are not directly used in the code.
 
-`project.py`
 
 
 ## Licensing
