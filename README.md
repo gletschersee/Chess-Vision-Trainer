@@ -36,7 +36,7 @@ To reach the user menu, click on the button on the right side of the top half of
 Please note, that when you start the app, your username is set to "guest_session."
 Any stats for that particular username are **NOT** saved.
 
-<p align="right">(<a href="top">Back to top</a>)</p>
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
 #### Changing user
 
@@ -71,7 +71,7 @@ The three modes are:
     - You have 5 seconds and infinite guesses per move
     - The square you have to find will be renewed when your guess is wrong
 
-<p align="right">(<a href="top">Back to top</a>)</p>
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
 
 ### Ideas for future versions
@@ -98,7 +98,7 @@ In the unlikely case that there are people interested in my project, I might con
     - [ ] global leaderboard
 
 
-<p align="right">(<a href="top">Back to top</a>)</p>
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
 
 ### Side note
@@ -136,7 +136,7 @@ For instance, assuming your name/ GitHub username is "GenericName," then the tit
     Chess Vision Trainer [version] by Gletschersee and GenericName
 This project is not to be commercialized.
 
-<p align="right">(<a href="top">Back to top</a>)</p>
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
 
 ## Version Log
@@ -159,7 +159,7 @@ Planned versions are in *Italic*.
 
 All the code is written by me, Gletschersee.
 
-<p align="right">(<a href="top">Back to top</a>)</p>
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
 ### Graphics
 
