@@ -1,9 +1,9 @@
 """
-This module tests project.py to prevent Errors.
+This module tests chess_vision_trainer.py to prevent Errors.
 """
 
 
-from project import *
+from chess_vision_trainer import *
 import pytest
 
 
