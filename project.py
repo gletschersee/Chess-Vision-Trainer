@@ -280,15 +280,7 @@ def show_mode(screen, mode):
         screen (g.display.set_mode): The pygame call for creating a window.
         mode (str): One of the three modes of the Chess Vision Trainer.
     """
-    classical_logo = g.image.load("graphics/cvt_classical70x70.png")
-    lives_logo = g.image.load("graphics/cvt_lives70x70.png")
-    timed_logo = g.image.load("graphics/cvt_timed70x70.png")
-    if mode == "classical":
-        screen.blit(classical_logo, (410, 15))
-    elif mode == "lives":
-        screen.blit(lives_logo, (410, 15))
-    elif mode == "timed":
-        screen.blit(timed_logo, (410, 15))
+    screen.blit(g.image.load(f"graphics/cvt_{mode}70x70.png"), (410, 15))
 
 
 def menu_home(screen, to_find, score, highscore, user, menu, mode, seconds_displayed):
