@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 <div align="center">
 
 # **Chess Vision Trainer**
@@ -8,11 +10,13 @@ v.1.0 - *Gletschersee*
 [![Video](https://img.shields.io/badge/Video%20Demo%20-%20Chess%20Vision%20Trainer%20-%20black?logo=youtube&labelColor=red)](https://www.youtube.com/watch?v=a2HBwKvbtOo)
 
 <div align="left">
-    
+
+
 ## Description
 
 Chess Vision Trainer is an app that allows users to train their knowledge of chess square names
 per modern/ standard/ algebraic notation in a gamified way.
+
 
 ### Tutorial
 
@@ -32,6 +36,8 @@ To reach the user menu, click on the button on the right side of the top half of
 Please note, that when you start the app, your username is set to "guest_session."
 Any stats for that particular username are **NOT** saved.
 
+<p align="right">(<a href="top">Back to top</a>)</p>
+
 #### Changing user
 
 You can change your username by clicking on user on the right side of the top half of the app.
@@ -45,6 +51,7 @@ On the left of the switch button, a small circle will appear briefly once the ap
 Every keyboard input is accepted.
 By pressing directly ↩, you will get "" as your username.
 And, by typing a very long username, your username cannot be fully displayed.
+
 
 #### The modes
 
@@ -63,6 +70,8 @@ The three modes are:
     - Icon: ⚡, Lightning bolt
     - You have 5 seconds and infinite guesses per move
     - The square you have to find will be renewed when your guess is wrong
+
+<p align="right">(<a href="top">Back to top</a>)</p>
 
 
 ### Ideas for future versions
@@ -89,6 +98,9 @@ In the unlikely case that there are people interested in my project, I might con
     - [ ] global leaderboard
 
 
+<p align="right">(<a href="top">Back to top</a>)</p>
+
+
 ### Side note
 
 This project is my first Python project with a GUI.
@@ -108,10 +120,10 @@ Thus, it is what it is.
 Greetings from Germany
 Gletschersee
 
-
 ### Fun fact
 
 I did not start chess when I was 4. I started when I was an adult and am still bad at chess.
+
 
 
 ## Licensing
@@ -123,6 +135,8 @@ You may, if you want, add yours to mine.
 For instance, assuming your name/ GitHub username is "GenericName," then the title should be:
     Chess Vision Trainer [version] by Gletschersee and GenericName
 This project is not to be commercialized.
+
+<p align="right">(<a href="top">Back to top</a>)</p>
 
 
 ## Version Log
@@ -137,11 +151,15 @@ Current version is **bolt**.
 Planned versions are in *Italic*.
 
 
+
+
 ## References
 
 ### Code
 
 All the code is written by me, Gletschersee.
+
+<p align="right">(<a href="top">Back to top</a>)</p>
 
 ### Graphics
 
@@ -159,7 +177,6 @@ All of them have licenses that allow me to use them in the way I used them.
 [Bolt logo](https://commons.wikimedia.org/wiki/File:Bolt_font_awesome.svg)
 
 [Bolt frame](https://svgsilh.com/de/image/2031288.html)
-
 
 
 ## Contact Information
