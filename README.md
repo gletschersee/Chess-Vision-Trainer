@@ -25,7 +25,7 @@ You need to have Python and pip installed.
 Steps before you can use the app:
 1. Load this repository into your coding environment.
 2. Use pip to install pygame.
-3. Run project.py.
+3. Run chess_vision_trainer.py.
 Now you should be able to see the GUI and use the app.
 
 #### How to use the app
@@ -128,10 +128,10 @@ I did not start chess when I was 4. I started when I was an adult and am still b
 ## File descriptions
 
 - `README.md` This file. It contains the documentation for and other information on the project.
-- `project.py` The main file. It runs the entire app.
+- `chess_vision_trainer.py` The main file. It runs the entire app.
 - `record_logbook.csv` Records file. All the game statistics from logged-in users are saved here. 
 - `requirements.txt` Requirements file. This file contains all the tools I have worked with. Normally, it should be enough to pip install pygame.
-- `test_project.py` The testing file. This file can be run with pytest to ensure project.py is working as intended. It does **NOT** catch everything.
+- `test_chess_vision_trainer.py` The testing file. This file can be run with pytest to ensure chess_vision_trainer.py is working as intended. It does **NOT** catch everything.
 - `graphics/...` The folder for all the graphics used for this project.
     - `additional ressources/...` The subfolder for higher-resolution images, that are not directly used in the code.
 
