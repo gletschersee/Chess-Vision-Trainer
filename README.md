@@ -1,13 +1,14 @@
+<div align="center">
 
 # **Chess Vision Trainer**
 v.1.0 - *Gletschersee*
 
 ![Chess Vision Trainer Logo](https://raw.githubusercontent.com/gletschersee/Chess-Vision-Trainer/main/graphics/cvt_classical70x70.png)
 
-![Static Badge](https://img.shields.io/badge/Video%20Demo%20-%20Chess%20Vision%20Trainer%20-%20black?logo=youtube&labelColor=red&link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDl-ekLb4quE)
-![Watch on Youtube](https://www.youtube.com/watch?v=a2HBwKvbtOo)
+[![Video](https://img.shields.io/badge/Video%20Demo%20-%20Chess%20Vision%20Trainer%20-%20black?logo=youtube&labelColor=red)](https://www.youtube.com/watch?v=a2HBwKvbtOo)
 
-
+<div align="left">
+    
 ## Description
 
 Chess Vision Trainer is an app that allows users to train their knowledge of chess square names
