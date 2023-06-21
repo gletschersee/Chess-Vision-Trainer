@@ -96,6 +96,7 @@ In the unlikely case that there are people interested in my project, I might con
 - [ ] Implement a web API instance of Chess Vision Trainer
     - [ ] log in with passwords
     - [ ] global leaderboard
+- [ ] Option to switch sides from white to black
 
 
 <p align="right">(<a href="#top">Back to top</a>)</p>
