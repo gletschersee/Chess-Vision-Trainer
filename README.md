@@ -143,7 +143,7 @@ This project is not to be commercialized.
 
 | Version               | Changes                                                       |
 |:---------------------:|---------------------------------------------------------------|
-| **v.1.0**            | The original version of the Chess Vision Trainer.             |
+| **v.1.0**             | The original version of the Chess Vision Trainer.             |
 | *No further versions* | *None*                                                        |
 
 Past versions are not highlighted.
