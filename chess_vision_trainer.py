@@ -278,7 +278,7 @@ def show_mode(screen, mode):
 
     Args:
         screen (g.display.set_mode): The pygame call for creating a window.
-        mode (str): One of the three modes of the Chess Vision Trainer.
+        mode (str): One of the three modes of the Chess Vision Trainer, IF CLICK WAS A MODE.
     """
     if mode in ["classical","lives","timed"]:
         screen.blit(g.image.load(f"graphics/cvt_{mode}70x70.png"), (410, 15))
