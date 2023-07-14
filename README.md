@@ -7,6 +7,8 @@ v.1.0 - *Gletschersee*
 
 ![Chess Vision Trainer Logo](https://raw.githubusercontent.com/gletschersee/Chess-Vision-Trainer/main/graphics/cvt_classical70x70.png)
 
+![Chess Vision Trainer Teaser](https://raw.githubusercontent.com/gletschersee/Chess-Vision-Trainer/main/graphics/additional%20ressources/Chess%20Vision%20Trainer%20-%20Teaser.gif)
+
 [![Video](https://img.shields.io/badge/Video%20Demo%20-%20Chess%20Vision%20Trainer%20-%20black?logo=youtube&labelColor=red)](https://www.youtube.com/watch?v=a2HBwKvbtOo)
 
 <div align="left">
